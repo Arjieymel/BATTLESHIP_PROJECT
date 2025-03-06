@@ -1,0 +1,9 @@
+open the folder 
+open the file
+search cmd 
+
+//type//
+git status/git added .
+git status
+git commit -m "comment"
+git push -u origin main
